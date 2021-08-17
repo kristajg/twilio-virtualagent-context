@@ -1,0 +1,29 @@
+{
+  "name": "twilio-virtualagent-context",
+  "version": "1.0.0",
+  "description": "Pass Context from Google Dialogflow Essentials to Twilio Studio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristajg/twilio-virtualagent-context.git"
+  },
+  "keywords": [
+    "twilio",
+    "dialogflow",
+    "twilio",
+    "studio"
+  ],
+  "author": "Krista Goralczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristajg/twilio-virtualagent-context/issues"
+  },
+  "homepage": "https://github.com/kristajg/twilio-virtualagent-context#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
