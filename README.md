@@ -1,5 +1,5 @@
 # twilio-virtualagent-context
-Pass Context from Google Dialogflow Essentials to Twilio Studio. This code is intended for use with [this blog post link TBD](https://twilio.com/). This is for demonstrative purposes only and is not production ready code. Both node + express and python + flask examples are available depending on your language preference.
+Pass Context from Google Dialogflow Essentials to Twilio Studio. This code is intended for use with [this blog post link TBD](https://twilio.com/). This is for demo and tutorial purposes only and is not production ready code. Both node + express and python + flask examples are available depending on your language preference.
 
 ---
 
